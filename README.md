@@ -4,9 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a1a2e,100:16213e&height=300&section=header&text=VELLOR%20PAVAN&fontSize=70&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Builder%20of%20Intelligent%20Systems&descAlignY=58&descSize=18&descColor=7dd3fc&stroke=00d4ff&strokeWidth=2" width="100%"/>
 
 <!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=60&lines=🤖+Building+AI+that+thinks+beyond+boundaries;⚡+Turning+data+into+intelligence;🚀+Full-Stack+%2B+AI+%3D+Unstoppable;🧠+From+neurons+to+neural+nets;💡+Code+%7C+Create+%7C+Conquer" alt="Typing SVG" />
-</a>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=60&lines=🤖+Building+AI+that+thinks+beyond+boundaries;⚡+Turning+data+into+intelligence;🚀+Full-Stack+%2B+AI+%3D+Unstoppable;🧠+From+neurons+to+neural+nets;💡+Code+%7C+Create+%7C+Conquer)
 
 <br/>
 
